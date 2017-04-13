@@ -6,7 +6,7 @@
   "author": "Start Bootstrap",
   "license": {
     "type": "MIT",
-    "url": "https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE"
+    "url": "https://github.com/aswin94/trioweb/blob/master/LICENSE"
   },
   "devDependencies": {
     "bootstrap": "^3.3.7",
@@ -23,6 +23,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/BlackrockDigital/startbootstrap-agency.git"
+    "url": "https://github.com/aswin94/trioweb.git"
   }
 }
