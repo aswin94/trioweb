@@ -294,9 +294,13 @@ section h3.section-subheading {
   margin-bottom: 75px;
 }
 @media (min-width: 768px) {
-  section {
-    padding: 150px 0;
-  }
+    div.col-sm-7.five-three {
+    width: 60% !important;
+    }
+
+    div.col-sm-5.five-two {
+    width: 40% !important;
+    }
 }
 .service-heading {
   margin: 15px 0;
@@ -541,6 +545,7 @@ section h3.section-subheading {
 .team-member img {
   margin: 0 auto;
   border: 7px solid white;
+  max-height: 300px;
 }
 .team-member h4 {
   margin-top: 25px;
@@ -744,3 +749,4 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #fed136;
 }
+
